@@ -36,3 +36,11 @@ l2: result is an array... square of each element in a row and sum them we get 1.
 
 - Normalised class in preprocessing
  we create object and pass data to get l1 normalization
+
+ -Binarization: Setting limit to data 
+  giving raw data -- >threshold then binerized to 1 and <threshold binerized to 0.
+
+  -Label encoding: 
+   machine cant understand text, it only understand binary.
+    number is labelled or assigned to text. processing based on label. 
+
