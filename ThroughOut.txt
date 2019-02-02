@@ -1,0 +1,14 @@
+-Intro: Training with data for a purpose
+-Data mining: Collecting data from large data area.
+-Types: 1.Supervised learning
+        2.Unsupervised
+        3.Reinforcement
+-Supervised: --Training data with label
+ --Based on testing data
+
+-Unsupervised: No label given.
+  --All data given for training. Labelled based on similarity which is created by the system.
+-Reinforcemnt:
+  --Feedback obtained during running and this is used to catagorize data.
+   --eg:chess(cant predit next movemnt)
+   --realtime data training
