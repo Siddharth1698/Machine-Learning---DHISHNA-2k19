@@ -22,4 +22,7 @@
 -numpy: create arrays
 -ski-learn: pre functions and packages available for ml. 
    ::preprocessing.  from sklearn import preprocessing  - preprocessing.x 
-       - use 'as' for abbreviation for name.
+       - use 'as' for abbreviation for 
+-Mean removal, standard deviation
+
+
