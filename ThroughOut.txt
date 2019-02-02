@@ -16,5 +16,5 @@
 -Algorthm must be anallyzed.
 -Ml can be done in any language.
 -For python,IDLE-- Software:Anaconda has many libraries,packages for ml.
-
+-Enabling python for Anaconda
 
