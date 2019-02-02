@@ -29,3 +29,10 @@
 standard:data scaled to 0 , standard deviation as 1
 minmap: scaled to a range (0 to 1), 
 
+-Normalizer L1,L2
+  l1:least absolute deviation l2:least squares
+l1: result of normalisation is an array.. and the absolute sum of row is always 1
+l2: result is an array... square of each element in a row and sum them we get 1.
+
+- Normalised class in preprocessing
+ we create object and pass data to get l1 normalization
