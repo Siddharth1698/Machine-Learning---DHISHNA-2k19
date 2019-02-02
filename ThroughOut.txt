@@ -44,3 +44,5 @@ l2: result is an array... square of each element in a row and sum them we get 1.
    machine cant understand text, it only understand numbers.
      number is labelled or assigned to text. processing based on label. 
    fit and transform is used for same excpt that transform can be used later using inverse_transform but fit cannot
+
+-Data Analysis : iris
