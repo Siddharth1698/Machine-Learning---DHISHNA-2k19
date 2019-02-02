@@ -41,6 +41,6 @@ l2: result is an array... square of each element in a row and sum them we get 1.
   giving raw data -- >threshold then binerized to 1 and <threshold binerized to 0.
 
   -Label encoding: 
-   machine cant understand text, it only understand binary.
-    number is labelled or assigned to text. processing based on label. 
-
+   machine cant understand text, it only understand numbers.
+     number is labelled or assigned to text. processing based on label. 
+   fit and transform is used for same excpt that transform can be used later using inverse_transform but fit cannot
