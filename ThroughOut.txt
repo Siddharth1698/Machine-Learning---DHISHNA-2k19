@@ -12,3 +12,9 @@
   --Feedback obtained during running and this is used to catagorize data.
    --eg:chess(cant predit next movemnt)
    --realtime data training
+
+-Algorthm must be anallyzed.
+-Ml can be done in any language.
+-For python,IDLE-- Software:Anaconda has many libraries,packages for ml.
+
+
