@@ -17,4 +17,9 @@
 -Ml can be done in any language.
 -For python,IDLE-- Software:Anaconda has many libraries,packages for ml.
 -Enabling python for Anaconda
-
+-hello world in python
+-Preprocessing: data needs to be preprocessed before training.
+-numpy: create arrays
+-ski-learn: pre functions and packages available for ml. 
+   ::preprocessing.  from sklearn import preprocessing  - preprocessing.x 
+       - use 'as' for abbreviation for name.
