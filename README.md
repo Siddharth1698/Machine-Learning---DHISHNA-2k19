@@ -49,3 +49,23 @@ l2: result is an array... square of each element in a row and sum them we get 1.
    fit and transform is used for same excpt that transform can be used later using inverse_transform but fit cannot
 
 -Data Analysis : iris
+
+
+##Day 2:
+  
+
+
+-SVM: support vector machine
+ more accuracy
+ divides the classes. the line that divides is called hiper line. svm find s the hyperline.
+ trial and run error method to get equal distance between two points of diffrent classes.
+ half the distance between them initial line.
+
+-linear svm classification
+-non linear svm classification 
+-matplot
+
+-svm : lin,rbf,poly
+  
+
+-KNN  
