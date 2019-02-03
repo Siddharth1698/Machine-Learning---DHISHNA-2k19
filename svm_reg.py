@@ -8,11 +8,11 @@ lin_svc = svm.SVC (kernel='linear',C=C)
 rbf_syn = svm.SVC (kernel='rbf',gamma=1.3,C=C)
 poly_svc = svm.SVC (kernel='poly',degree=3,C=C)
 
-X_train,X_test,y_train,y_test = train_test_split(iris_flower.data,iris_flower.target,test_size = 0.3)
+x_train,x_test,y_train,y_test = train_test_split(iris_flower.data,iris_flower.target,test_size = 0.3)
 
-lin_svc.fit(X_train,y_train)
-rbf_syn.fit(X_train,y_train)
-poly_svc.fit(X_train,y_train)
+lin_svc.fit(x_train,y_train)
+rbf_syn.fit(x_train,y_train)
+poly_svc.fit(x_train,y_train)
 
 # print(X_train)
 # print(y_train)
