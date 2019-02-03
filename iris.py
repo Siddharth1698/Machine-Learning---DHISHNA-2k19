@@ -8,7 +8,8 @@ dataset = iris_flower.data
 # print(shapr_iris)
 # print(names)
 # print(dataset)
-print (iris_flower.target_names)
-print (iris_flower.target)
-print(iris_flower.target.shape)
+# print (iris_flower.target_names)
+# print (iris_flower.target)
+# print(iris_flower.target.shape)
 
+print(iris_flower['DESCR'])
