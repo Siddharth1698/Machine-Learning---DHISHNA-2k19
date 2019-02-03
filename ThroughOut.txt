@@ -55,3 +55,4 @@ l2: result is an array... square of each element in a row and sum them we get 1.
 
 -linear svm classification
 -non linear svm classification 
+-matplot
